@@ -1,0 +1,1 @@
+console.log("hi :) hame sefr joz aghaye sadafi")

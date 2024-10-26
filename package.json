@@ -1,0 +1,11 @@
+{
+    "name": "ci-cd-example",
+    "version": "1.0.0",
+    "description": "A sample project with CI/CD",
+    "scripts": {
+      "test": "echo 'Running tests...' && exit 0"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+  }
+  
